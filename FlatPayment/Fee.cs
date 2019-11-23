@@ -7,7 +7,7 @@
         public string Street { get; set; }
         public string House { get; set; }
         public string Flat { get; set; }
-        public FeeType FeeType { get; set; }
+        public string FeeType { get; set; }
         public int Payment { get; set; }
     }
 }
